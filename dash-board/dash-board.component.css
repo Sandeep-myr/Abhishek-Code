@@ -1,0 +1,6 @@
+.side-dialog {
+    width: 50vw;
+    left: 10vw !important; /* Adjust this value as needed */
+    transform: translateY(-50%);
+    margin-left: 10%;
+  }
